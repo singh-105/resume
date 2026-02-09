@@ -1,0 +1,5 @@
+Job Title: Data Scientist
+Required Skills: Python, Machine Learning, Deep Learning, SQL, Pandas, NumPy, Scikit-learn, TensorFlow, Keras, PyTorch, Statistics, Data Visualization, Matplotlib, Seaborn, NLP, Big Data, Hadoop, Spark.
+Experience: 3-5 years.
+Tools: Jupyter Notebook, Tableau, Power BI, AWS, Azure, Git.
+Description: Looking for a Data Scientist to analyze large datasets, build predictive models, and derive actionable insights. Must be proficient in statistical analysis and machine learning algorithms. Experience with deep learning frameworks is a plus.

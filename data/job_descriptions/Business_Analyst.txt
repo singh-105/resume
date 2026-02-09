@@ -1,0 +1,5 @@
+Job Title: Business Analyst
+Required Skills: Business Analysis, SQL, Excel, Requirements Gathering, Agile, Scrum, Communication, Stakeholder Management, Jira, Visio, PowerPoint.
+Experience: 2-5 years.
+Tools: Microsoft Office, Jira, Tableau, SQL Server.
+Description: Bridging the gap between IT and the business using data analytics to assess processes, determine requirements and deliver data-driven recommendations and reports to executives and stakeholders.

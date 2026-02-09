@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+data/raw_resumes/*
+!data/raw_resumes/.gitkeep
+data/processed_resumes/*
+!data/processed_resumes/.gitkeep
