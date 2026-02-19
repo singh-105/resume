@@ -1,3 +1,4 @@
+--extra-index-url https://download.pytorch.org/whl/cpu
 pandas
 numpy
 scikit-learn
@@ -8,10 +9,5 @@ pdfplumber
 python-docx
 streamlit>=1.35.0
 altair>=5.0.0
-jupyter
-wordcloud
-matplotlib
-seaborn
 sentence-transformers
---extra-index-url https://download.pytorch.org/whl/cpu
 torch
