@@ -53,7 +53,9 @@ def main():
     if uploaded_file and st.button("Analyze Profile"):
         with st.spinner("Running AI Analysis..."):
             # Save and load
-            temp_path = os.path.join("data/processed_resumes", uploaded_file.name)
+            save_folder = "data/processed_resumes"
+            os.makedirs(save_folder, exist_ok=True)
+            temp_path = os.path.join(save_folder, uploaded_file.name)
             with open(temp_path, "wb") as f:
                 f.write(uploaded_file.getbuffer())
                 
