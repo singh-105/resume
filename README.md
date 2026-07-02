@@ -41,3 +41,14 @@ An AI-powered resume screening system that analyzes resumes against job descript
 2. **Preprocessing**: Text is cleaned and lemmatized using Spacy.
 3. **Training**: The system generates "synthetic" good/bad resumes based on the Job Description to train a Random Forest classifier.
 4. **Scoring**: The resume is passed to the classifier to get a "Match Probability".
+
+---
+
+## 👨‍💻 About the Developer
+
+Built by **Harsh M Singh** — B.Tech CSE (Data Science), Lokmanya Tilak College of Engineering, Mumbai.
+
+- 🔗 GitHub: [github.com/singh-105](https://github.com/singh-105)
+- 💼 AI Intern @ Deep Cytes
+
+Feel free to connect, star the repo, or open an issue!
